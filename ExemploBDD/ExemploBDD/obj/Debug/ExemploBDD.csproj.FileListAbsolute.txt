@@ -1,0 +1,6 @@
+C:\Users\isabela.goncalves\source\repos\ExemploBDD\ExemploBDD\bin\Debug\ExemploBDD.dll
+C:\Users\isabela.goncalves\source\repos\ExemploBDD\ExemploBDD\bin\Debug\ExemploBDD.pdb
+C:\Users\isabela.goncalves\source\repos\ExemploBDD\ExemploBDD\obj\Debug\ExemploBDD.csprojAssemblyReference.cache
+C:\Users\isabela.goncalves\source\repos\ExemploBDD\ExemploBDD\obj\Debug\ExemploBDD.csproj.CoreCompileInputs.cache
+C:\Users\isabela.goncalves\source\repos\ExemploBDD\ExemploBDD\obj\Debug\ExemploBDD.dll
+C:\Users\isabela.goncalves\source\repos\ExemploBDD\ExemploBDD\obj\Debug\ExemploBDD.pdb
